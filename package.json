@@ -4,7 +4,9 @@
   "description": "Get Today's Predictions for Sports Games (based on FiveThirtyEight)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm install",
+    "score": "node index.js"
   },
   "author": "P. Sherman",
   "license": "MIT",

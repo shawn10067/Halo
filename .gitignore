@@ -1,4 +1,3 @@
 node_modules
 csv_templates
-package-lock.json
-
+./package-lock.json
